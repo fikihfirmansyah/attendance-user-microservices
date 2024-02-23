@@ -1,0 +1,18 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "userService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
